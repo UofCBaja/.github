@@ -3,12 +3,13 @@ UCalgary Baja is a student organization which designs, builds, and races an off-
 In UCalgary Baja, we gain practical experience in design and manufacturing by constructing various car components. Our work combines mechanical design, project management, and hands-on manufacturing experience. This involves using CAD technology like SolidWorks and FEA simulations.
 
 # Software
-- [BAJA Frontend](https://forge.ucalgarybaja.ca/ucalgary-baja/ucalg-baja-ca)
-- [BAJA Backend](https://forge.ucalgarybaja.ca/ucalgary-baja/ucalg-baja-cloud)
-- [BAJA Mod](https://forge.ucalgarybaja.ca/ucalgary-baja/Baja_Mod)
+- [Website Sveltekit](https://forge.ucalgarybaja.ca/ucalgary-baja/ucalg-baja-ca)
+- [Backend Actix Server](https://forge.ucalgarybaja.ca/ucalgary-baja/ucalg-baja-cloud)
+- [BEAMNG.druve 2025 Mod](https://forge.ucalgarybaja.ca/ucalgary-baja/Baja_Mod)
 # Telemetry
-- [BAJA Electrical](https://forge.ucalgarybaja.ca/ucalgary-baja/UCBajaElectrical)
+- [Electrical](https://forge.ucalgarybaja.ca/ucalgary-baja/UCBajaElectrical)
+- [Telemetry](https://forge.ucalgarybaja.ca/ucalgary-baja/Baja-Telemetry)
 # Data Acquisition
-
+- [IMU Scripts](https://forge.ucalgarybaja.ca/ucalgary-baja/IMU-Scripts)
 # Meta
 - [BAJA Coding Practices](https://forge.ucalgarybaja.ca/ucalgary-baja/Baja-Coding-Practices)
